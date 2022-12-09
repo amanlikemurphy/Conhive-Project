@@ -1,9 +1,10 @@
 asgiref==3.5.2
 attrs==22.1.0
+awsebcli==3.20.3
 bcrypt==4.0.1
 blessed==1.19.1
 boto3==1.24.0
-botocore==1.27.96
+botocore==1.23.54
 cached-property==1.5.2
 cement==2.8.2
 certifi==2022.12.7
@@ -12,7 +13,7 @@ charset-normalizer==2.0.12
 colorama==0.4.3
 cryptography==38.0.4
 Django==2.1.15
-django-storages==1.11.1
+django-storages==1.8
 docker==4.4.4
 docker-compose==1.25.5
 dockerpty==0.4.1
