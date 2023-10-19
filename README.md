@@ -35,6 +35,10 @@ These are general conditions that the application must meet for users to have an
 - **Data Storage**: Store and retrieve user data and content from Amazon S3.
 
 
+This diagram illustrates the architectural design for the cloud application:
+
+![Diagram](aws-new.png)
+
 ## Getting Started
 
 To get started on this project, follow these steps:
