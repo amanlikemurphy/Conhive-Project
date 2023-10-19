@@ -45,6 +45,11 @@ To get started on this project, follow these steps:
 
 3. Install the required dependencies by running `pip install -r requirements.txt`.
 
+4. Replace the following with your details:
+AWS_ACCESS_KEY_ID = ''
+AWS_SECRET_ACCESS_KEY = ''
+AWS_STORAGE_BUCKET_NAME = ''
+It is advisable to create an env file to store the variable details. 
 
 ## Deployment
 
